@@ -330,6 +330,7 @@ decoders = {
     FIELD_TYPE.VARCHAR: through,
     FIELD_TYPE.DECIMAL: Decimal,
     FIELD_TYPE.NEWDECIMAL: Decimal,
+    FIELD_TYPE.JSON: through
 }
 
 
